@@ -57,5 +57,5 @@ Experienced in Freelancing and Startup Ecosystem. Bringing 5+ years of extensive
 
 🌟 Ambitious, well organized and communicative.
 
-👋 **Let's collaborate and solve real-world problems uinsg Data and AI**👋
+👋 **Let's collaborate and solve real-world problems uinsg Data and AI** 👋
 
