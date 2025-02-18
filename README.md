@@ -55,4 +55,5 @@ Experienced in Freelancing and Startup Ecosystem. Bringing 5+ years of extensive
 
 [![LinkedIn](https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&logoColor=fff)](https://www.linkedin.com/in/aleksa-lukovic/)
 [![Upwork](https://img.shields.io/badge/Upwork-6FDA44?logo=upwork&logoColor=fff)](https://www.upwork.com/freelancers/~01c832d2d60285152e)
+[![Medium](https://img.shields.io/badge/Medium-black?logo=medium&logoColor=white)](https://medium.com/@lukovic.aleksa96)
 [![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?logo=github&logoColor=white)](https://github.com/lukovicaleksa)
