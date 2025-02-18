@@ -1,4 +1,10 @@
-# Hi there, I'm Aleksa Lukovic 👋
+<h1 align='center'>👋 Hello there, I'm Aleksa Lukovic</h1>
+<p align='center'>
+  <a href="https://www.linkedin.com/in/aleksa-lukovic/"><img src="https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&logoColor=fff"/></a>
+  <a href="https://www.upwork.com/freelancers/~01c832d2d60285152e"><img src="https://img.shields.io/badge/Upwork-6FDA44?logo=upwork&logoColor=fff"/></a>
+  <a href="https://medium.com/@lukovic.aleksa96"><img src="https://img.shields.io/badge/Medium-black?logo=medium&logoColor=white"/></a>
+  <a href="https://github.com/lukovicaleksa"><img src="https://img.shields.io/badge/GitHub-%23121011.svg?logo=github&logoColor=white"/></a>
+</p>
 
 Experienced in Freelancing and Startup Ecosystem. Bringing 5+ years of extensive hands-on experience in building end-to-end AI/ML applications, Data Pipelines, and Python-Based Software Solutions.
 
@@ -53,7 +59,3 @@ Experienced in Freelancing and Startup Ecosystem. Bringing 5+ years of extensive
 
 👋 **Let's collaborate and solve real-world problems uinsg Data and AI**👋
 
-[![LinkedIn](https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&logoColor=fff)](https://www.linkedin.com/in/aleksa-lukovic/)
-[![Upwork](https://img.shields.io/badge/Upwork-6FDA44?logo=upwork&logoColor=fff)](https://www.upwork.com/freelancers/~01c832d2d60285152e)
-[![Medium](https://img.shields.io/badge/Medium-black?logo=medium&logoColor=white)](https://medium.com/@lukovic.aleksa96)
-[![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?logo=github&logoColor=white)](https://github.com/lukovicaleksa)
