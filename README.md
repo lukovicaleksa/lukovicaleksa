@@ -1,6 +1,6 @@
 # Hi there, I'm Aleksa Lukovic 👋
 
-Experienced in Freelancing and Startup Ecosystem, bringing 5+ years of extensive hands-on experience in building end-to-end AI/ML applications, Data Pipelines, and Python-Based Software Solutions.
+Experienced in Freelancing and Startup Ecosystem. Bringing 5+ years of extensive hands-on experience in building end-to-end AI/ML applications, Data Pipelines, and Python-Based Software Solutions.
 
 ### 🧠 Area of Expertise
 
@@ -45,7 +45,7 @@ Experienced in Freelancing and Startup Ecosystem, bringing 5+ years of extensive
 
 ## 👨🏻‍💻 About me 
 
-🎓 **Master of Science in Computer Science** with strong educational background in **Artificial Intelligence, Mathematics, Statistics and Software Engineering.**
+🎓 Master of Science in Computer Science with strong educational background in Artificial Intelligence, Mathematics, Statistics and Software Engineering.
 
 🚀 Top 3% Freelancers on Upwork, Upwork Certified for Python Engineering, MongoDB User Group Leader
 
