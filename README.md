@@ -10,12 +10,7 @@ Experienced in Freelancing and Startup Ecosystem. Bringing 5+ years of extensive
 
 ### 🧠 Area of Expertise
 
-- **NLP / LLMs**
-- **Semantic Search / RAG / Fine-Tuning / ChatBots / Agents**
-- **Web Scraping**
-- **Cloud Deployment**
-- **Data Science**
-- **Data Analysis / Business Intelligence**
+✅ **NLP / LLMs** ✅ **Semantic Search / RAG / Fine-Tuning / ChatBots / Agents** ✅ **Web Scraping** ✅ **Cloud Deployment** ✅ **Data Science** ✅ **Data Analysis / Business Intelligence**
 
 ### 🛠️ Technologies & Tools
 
