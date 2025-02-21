@@ -6,7 +6,7 @@
   <a href="https://github.com/lukovicaleksa?tab=repositories"><img src="https://img.shields.io/badge/GitHub-%23121011.svg?logo=github&logoColor=white"/></a>
 </p>
 
-Experienced in Freelancing and Startup Ecosystem. Bringing 5+ years of extensive hands-on experience in building end-to-end AI/ML applications, Data Pipelines, and Python-Based Software Solutions.
+Experienced in Freelancing and Startup Ecosystem. Bringing 5+ years of extensive hands-on experience in building end-to-end AI/ML Applications, Data Pipelines, and Python-Based Software Solutions.
 
 ### 🧠 Area of Expertise
 
