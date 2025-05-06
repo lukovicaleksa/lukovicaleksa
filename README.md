@@ -48,7 +48,7 @@ Experienced in Freelancing and Startup Ecosystem. Bringing 5+ years of extensive
 
 🎓 Master of Science in Computer Science with strong educational background in Artificial Intelligence, Mathematics, Statistics and Software Engineering.
 
-🚀 Top 3% Freelancers on Upwork, Upwork Certified for Python Engineering, MongoDB User Group Leader
+🚀 MongoDB User Group Leader, Top 3% Freelancers on Upwork, Upwork Certified for Python and Backend Engineering
 
 🌟 Ambitious, well organized and communicative.
 
