@@ -17,6 +17,7 @@ Experienced in Freelancing and Startup Ecosystem. Bringing 5+ years of extensive
 ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/-FastAPI-009688?logo=fastapi&logoColor=white)
 ![LangChain](https://img.shields.io/badge/-LangChain-000000?logo=langchain&logoColor=white)
+![LangGraph](https://img.shields.io/badge/-LangGraph-000000?logo=langchain&logoColor=white)
 ![LlamaIndex](https://img.shields.io/badge/-LlamaIndex-000000?logo=llamaindex&logoColor=white)
 ![Hugging Face](https://img.shields.io/badge/-Hugging%20Face-FFDA4B?logo=huggingface&logoColor=black)
 ![Scikit-Learn](https://img.shields.io/badge/-Scikit--Learn-F7931E?logo=scikit-learn&logoColor=white)
